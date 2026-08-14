@@ -1,0 +1,21 @@
+<svg width="850" height="120" viewBox="0 0 850 120" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="ft-bg" x1="0" y1="0" x2="850" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="ft-wave" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ADD8"/>
+      <stop offset="0.5" stop-color="#5FD4F0"/>
+      <stop offset="1" stop-color="#00ADD8"/>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="120" rx="14" fill="url(#ft-bg)"/>
+  <rect x="1" y="1" width="848" height="118" rx="13" stroke="#00ADD8" stroke-opacity="0.20" stroke-width="1.5"/>
+
+  <path d="M0 70 C 150 40, 300 100, 425 70 S 700 40, 850 70 L 850 60 C 700 30, 575 90, 425 60 S 150 30, 0 60 Z" fill="url(#ft-wave)" fill-opacity="0.20"/>
+  <path d="M0 78 C 150 48, 300 108, 425 78 S 700 48, 850 78" stroke="url(#ft-wave)" stroke-width="2" stroke-opacity="0.55" fill="none"/>
+
+  <text x="425" y="52" font-family="'JetBrains Mono',monospace" font-size="17" font-weight="600" fill="#00ADD8" text-anchor="middle">func main() { build() }</text>
+  <text x="425" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">Открыт к предложениям о стажировке и совместным проектам</text>
+</svg>
