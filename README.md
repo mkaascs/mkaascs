@@ -14,12 +14,12 @@
 
 ## 🏆 Highlights
 
-🥇 **1st place — Avito Hackathon 2026.** Разработка onboarding-SDK сервиса в команде за ограниченное время.
+🥇 **1st place — Avito Hackathon 2026.** Разработка onboarding-сервиса в команде
 
 ## ⚙️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cs,c,postgres,mysql,redis,docker,nginx,grpc,react,git,github,linux&theme=dark&perline=13" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=go,cs,c,postgres,mysql,redis,docker,nginx,react,git,github,linux&theme=dark&perline=12" alt="Tech stack"/>
 </p>
 
 `Go` `C#` `C` `PostgreSQL` `MySQL` `Redis` `Docker` `Nginx` `gRPC` `REST` `React` `Git` `GitHub Actions` `Linux`
@@ -27,11 +27,13 @@
 ## 🛠 Featured work
 
 <p align="center">
-  <a href="https://github.com/mkaascs/ExpireShareAPI"><img src="./assets/project-expireshare.svg" alt="ExpireShare" width="420"/></a>
-  <a href="https://github.com/mkaascs/WebhookDelivery"><img src="./assets/project-webhookdelivery.svg" alt="WebhookDelivery" width="420"/></a>
+  <a href="https://github.com/mkaascs/ExpireShareAPI"><img src="./assets/project-expireshare.svg" alt="ExpireShare" width="850"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/mkaascs/AuthService"><img src="./assets/project-authservice.svg" alt="AuthService" width="420"/></a>
+  <a href="https://github.com/mkaascs/WebhookDelivery"><img src="./assets/project-webhookdelivery.svg" alt="WebhookDelivery" width="850"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/mkaascs/AuthService"><img src="./assets/project-authservice.svg" alt="AuthService" width="850"/></a>
 </p>
 
 ## 📈 GitHub activity

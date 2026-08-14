@@ -1,34 +1,33 @@
-<svg width="420" height="150" viewBox="0 0 420 150" xmlns="http://www.w3.org/2000/svg" fill="none">
+<svg width="850" height="140" viewBox="0 0 850 140" xmlns="http://www.w3.org/2000/svg" fill="none">
   <defs>
-    <linearGradient id="es-bg" x1="0" y1="0" x2="420" y2="150" gradientUnits="userSpaceOnUse">
+    <linearGradient id="es-bg" x1="0" y1="0" x2="850" y2="140" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="1" stop-color="#161b22"/>
     </linearGradient>
-    <linearGradient id="es-accent" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
+    <linearGradient id="es-accent" x1="0" y1="0" x2="0" y2="140" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#00ADD8"/>
       <stop offset="1" stop-color="#5FD4F0"/>
     </linearGradient>
   </defs>
-  <rect width="420" height="150" rx="12" fill="url(#es-bg)"/>
-  <rect x="0.75" y="0.75" width="418.5" height="148.5" rx="11.25" stroke="#00ADD8" stroke-opacity="0.30" stroke-width="1.5"/>
-  <rect x="0" y="14" width="5" height="122" rx="2.5" fill="url(#es-accent)"/>
+  <rect width="850" height="140" rx="12" fill="url(#es-bg)"/>
+  <rect x="0.75" y="0.75" width="848.5" height="138.5" rx="11.25" stroke="#00ADD8" stroke-opacity="0.30" stroke-width="1.5"/>
+  <rect x="0" y="14" width="5" height="112" rx="2.5" fill="url(#es-accent)"/>
 
-  <text x="180" y="120" font-family="'JetBrains Mono',monospace" font-size="80" fill="#00ADD8" fill-opacity="0.06" font-weight="700">↯</text>
+  <text x="778" y="108" font-family="'JetBrains Mono',monospace" font-size="94" fill="#00ADD8" fill-opacity="0.06" font-weight="700" text-anchor="middle">&#8623;</text>
 
-  <text x="26" y="42" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#e6edf3">ExpireShare</text>
-  <text x="26" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b949e">Файлообменник со сроком жизни ссылок,</text>
-  <text x="26" y="88" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b949e">лимитом скачиваний и паролями на файлы</text>
+  <text x="30" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e6edf3">ExpireShare</text>
+  <text x="30" y="74" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#8b949e">Файлообменник со сроком жизни ссылок, лимитом скачиваний и паролями на файлы. CI на GitHub Actions.</text>
 
-  <g font-family="'JetBrains Mono',monospace" font-size="11.5" font-weight="500">
-    <rect x="26" y="108" width="34" height="22" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="43" y="123" fill="#5FD4F0" text-anchor="middle">Go</text>
-    <rect x="66" y="108" width="42" height="22" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="87" y="123" fill="#5FD4F0" text-anchor="middle">chi</text>
-    <rect x="114" y="108" width="56" height="22" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="142" y="123" fill="#5FD4F0" text-anchor="middle">MySQL</text>
-    <rect x="176" y="108" width="52" height="22" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="202" y="123" fill="#5FD4F0" text-anchor="middle">Redis</text>
-    <rect x="234" y="108" width="62" height="22" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="265" y="123" fill="#5FD4F0" text-anchor="middle">Docker</text>
+  <g font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500">
+    <rect x="30" y="96" width="36" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="48" y="112" fill="#5FD4F0" text-anchor="middle">Go</text>
+    <rect x="72" y="96" width="44" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="94" y="112" fill="#5FD4F0" text-anchor="middle">chi</text>
+    <rect x="122" y="96" width="60" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="152" y="112" fill="#5FD4F0" text-anchor="middle">MySQL</text>
+    <rect x="188" y="96" width="54" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="215" y="112" fill="#5FD4F0" text-anchor="middle">Redis</text>
+    <rect x="248" y="96" width="66" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="281" y="112" fill="#5FD4F0" text-anchor="middle">Docker</text>
   </g>
 </svg>
