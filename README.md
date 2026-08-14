@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://t.me/mkaascs"><img src="https://img.shields.io/badge/CONTACT-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://github.com/mkaascs?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-  <a href="mailto:cenadoe13@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
