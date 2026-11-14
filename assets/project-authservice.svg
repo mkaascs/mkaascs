@@ -16,7 +16,7 @@
   <text x="780" y="106" font-family="'JetBrains Mono',monospace" font-size="80" fill="#00ADD8" fill-opacity="0.07" font-weight="700" text-anchor="middle">&#9919;</text>
 
   <text x="30" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e6edf3">AuthService</text>
-  <text x="30" y="74" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#8b949e">Отдельный сервис аутентификации: JWT, bcrypt, защита от перебора паролей. Общается по gRPC.</text>
+  <text x="30" y="74" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#8b949e">Сервис аутентификации на gRPC: JWT с ротацией refresh-токенов, отзыв через Redis, защита от перебора.</text>
 
   <g font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500">
     <rect x="30" y="96" width="36" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
@@ -25,9 +25,11 @@
     <text x="98" y="112" fill="#5FD4F0" text-anchor="middle">gRPC</text>
     <rect x="130" y="96" width="60" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
     <text x="160" y="112" fill="#5FD4F0" text-anchor="middle">MySQL</text>
-    <rect x="196" y="96" width="48" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="220" y="112" fill="#5FD4F0" text-anchor="middle">JWT</text>
-    <rect x="250" y="96" width="58" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="279" y="112" fill="#5FD4F0" text-anchor="middle">bcrypt</text>
+    <rect x="196" y="96" width="54" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="223" y="112" fill="#5FD4F0" text-anchor="middle">Redis</text>
+    <rect x="256" y="96" width="48" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="280" y="112" fill="#5FD4F0" text-anchor="middle">JWT</text>
+    <rect x="310" y="96" width="58" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="339" y="112" fill="#5FD4F0" text-anchor="middle">bcrypt</text>
   </g>
 </svg>

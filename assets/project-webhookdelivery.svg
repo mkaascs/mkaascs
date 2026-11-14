@@ -16,18 +16,18 @@
   <text x="778" y="106" font-family="'JetBrains Mono',monospace" font-size="86" fill="#00ADD8" fill-opacity="0.06" font-weight="700" text-anchor="middle">&#8644;</text>
 
   <text x="30" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e6edf3">WebhookDelivery</text>
-  <text x="30" y="74" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#8b949e">Гарантированная доставка вебхуков: ретраи с экспоненциальным backoff, dead-letter, HMAC-подпись, WorkerPool.</text>
+  <text x="30" y="74" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#8b949e">Доставка вебхуков с гарантией: ретраи с экспоненциальным backoff, HMAC-подпись, очередь на PostgreSQL.</text>
 
   <g font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500">
     <rect x="30" y="96" width="36" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
     <text x="48" y="112" fill="#5FD4F0" text-anchor="middle">Go</text>
     <rect x="72" y="96" width="88" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
     <text x="116" y="112" fill="#5FD4F0" text-anchor="middle">PostgreSQL</text>
-    <rect x="166" y="96" width="54" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="193" y="112" fill="#5FD4F0" text-anchor="middle">Redis</text>
-    <rect x="226" y="96" width="54" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="253" y="112" fill="#5FD4F0" text-anchor="middle">HMAC</text>
-    <rect x="286" y="96" width="60" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
-    <text x="316" y="112" fill="#5FD4F0" text-anchor="middle">pgxpool</text>
+    <rect x="166" y="96" width="66" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="199" y="112" fill="#5FD4F0" text-anchor="middle">OpenAPI</text>
+    <rect x="238" y="96" width="54" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="265" y="112" fill="#5FD4F0" text-anchor="middle">HMAC</text>
+    <rect x="298" y="96" width="66" height="24" rx="5" fill="#00ADD8" fill-opacity="0.12"/>
+    <text x="331" y="112" fill="#5FD4F0" text-anchor="middle">Docker</text>
   </g>
 </svg>

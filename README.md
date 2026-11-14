@@ -13,23 +13,30 @@
 
 ## 🏆 Highlights
 
-🥇 **1st place — Avito Hackathon 2026.** Разработка onboarding-сервиса в команде
+🥇 **1st place — Avito Hackathon 2026.** Разработка onboarding-платформы в команде из 4 человек. Моя зона: проектирование БД и API (OpenAPI), модуль шагов Admin API, CI/CD и линтеры, перевод аналитики с PostgreSQL на ClickHouse
+
+<p align="center">
+  <a href="https://github.com/M2IE/Interactive-onboarding"><img src="./assets/project-interactiveonboarding.svg" alt="Interactive Onboarding" width="850"/></a>
+</p>
 
 ## ⚙️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cs,c,postgres,mysql,redis,docker,nginx,react,git,github,linux&theme=dark&perline=12" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=go,cs,c,postgres,mysql,redis,docker,nginx,react,ts,git,github,linux&theme=dark&perline=13" alt="Tech stack"/>
 </p>
 
-`Go` `C#` `C` `PostgreSQL` `MySQL` `Redis` `Docker` `Nginx` `gRPC` `REST` `React` `Git` `GitHub Actions` `Linux`
+`Go` `C#` `C` `PostgreSQL` `MySQL` `ClickHouse` `Redis` `Docker` `Nginx` `gRPC` `REST` `OpenAPI` `React` `TypeScript` `Git` `GitHub Actions` `Linux`
 
 ## 🛠 Featured work
 
 <p align="center">
-  <a href="https://github.com/mkaascs/ExpireShareAPI"><img src="./assets/project-expireshare.svg" alt="ExpireShare" width="850"/></a>
+  <a href="https://github.com/mkaascs/ExpireShare"><img src="./assets/project-expireshare.svg" alt="ExpireShare" width="850"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/mkaascs/WebhookDelivery"><img src="./assets/project-webhookdelivery.svg" alt="WebhookDelivery" width="850"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/mkaascs/TelegramAuthExtractor"><img src="./assets/project-telegramauthextractor.svg" alt="TelegramAuthExtractor" width="850"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/mkaascs/AuthService"><img src="./assets/project-authservice.svg" alt="AuthService" width="850"/></a>
